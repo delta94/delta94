@@ -1,5 +1,4 @@
-### Hi there 👋
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/delta94?tab=repositories) represent my journey :running_man: - Now I'm focusing to React and React Native and I was starting to love React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. 
+I'm a Front End Developer at J-Lines. Now I'm focusing to React and React Native and I was starting to love React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=delta94&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,4 +8,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Front-end Developer in Ho Chi Minh City, Viet Nam
 - 🌱 I’m currently learning React, Typescript, React Native
 - 📫 How to reach me: [**Facebook**](https://www.facebook.com/nht.94e)
--->
