@@ -1,8 +1,9 @@
 I'm a Front End Developer at J-Lines. Now I'm focusing to React and React Native and I was starting to love React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. 
 
 **Languages**
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS&logoColor=007396)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 
