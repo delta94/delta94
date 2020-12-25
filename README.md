@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front-end Developer in Ho Chi Minh City, Viet Nam
 - 🌱 I’m currently learning React, Typescript, React Native
-- 📫 How to reach me: [**Facebook**](https://www.facebook.com/nht.94e)
 
